@@ -1,0 +1,2 @@
+# flower-image-classification
+In this I build an image classification web app using a deep learning model built in keras or tensorflow. Gradio library allows you to easily build user interface for your deep learning and machine learning models. In this video, i build a flower classification model in python using tensorflow data set. In the web app, output will be shown as the confidence for each class for a particular image.
